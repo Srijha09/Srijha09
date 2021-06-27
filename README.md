@@ -8,9 +8,8 @@
 - 👯 I’m looking to collaborate on end-to-end data engineering and machine learning projects.
 - 📫 I'm currently learning machine learning cloud and data engineering skills.
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I am a self taught artist. Check out my work 
-  <a href="https://www.instagram.com/eclecticc.art/">
-  <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+- ⚡ Fun fact: I am a self taught artist. 
+  
 
 ## Where to find me?
 
