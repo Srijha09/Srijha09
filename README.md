@@ -9,7 +9,7 @@
 - 📫 I'm currently learning machine learning cloud and data engineering skills.
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a self taught artist. Check out my work on <a href="https://www.instagram.com/eclecticc.art/">
-  <img align="left" alt="Srijha's Linkedin" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 ## Where to find me?
 
