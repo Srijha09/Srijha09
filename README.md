@@ -14,7 +14,7 @@
 ## Where to find me?
 
 <a href="https://www.linkedin.com/in/srijha-kalyan-340364167/">
-  <img align="left" alt="Srijha's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svghttps://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img align="left" alt="Srijha's Linkedin" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svghttps://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:srijhakalyan99@gmail.com">
   <img align="left" alt="Srijha's Linkedin" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
