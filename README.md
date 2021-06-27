@@ -6,7 +6,7 @@
 - 🔭 I am an incoming Master's in Artifical Intelligence student at Northeastern University, Boston, MA.
 - 🌱 My current interests are in Data Engineering, Full Stack Deep Learning and Natural Language Processing.
 - 👯 I’m looking to collaborate on end-to-end data engineering and machine learning projects.
-- 📫 I'm currently learning machine learning cloud and data engineering skills.
+- 📫 I'm currently learning Machine Learning Cloud and Causal Inference.
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a self taught artist. 
   
