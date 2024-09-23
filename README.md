@@ -10,10 +10,10 @@
 
 ## Where to find me?
 
-<a href="https://www.linkedin.com/in/srijha-kalyan-340364167/">
+<a href="https://www.linkedin.com/in/srijha-kalyan/">
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:srijhakalyan99@gmail.com">
+<a href="mailto:kalyansrijha@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.kaggle.com/srija0905">
