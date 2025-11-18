@@ -5,7 +5,7 @@
 
 - 🔭 Actively building end-to-end systems: RAG pipelines, document intelligence, scalable data workflows, and model deployment.
 - 🌱 Interested in bridging research-grade models with real production constraints: retrieval, evaluation, MLOps, and AWS-native GenAI stacks.
-- ⚡ Outside tech, I’m a self-taught artist exploring realism and abstract human-form acrylic work.
+- ⚡ Outside tech, I’m a self-taught artist exploring realism and abstract acrylic work.
   
 
 ## Where to find me?
